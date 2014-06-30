@@ -1,0 +1,45 @@
+
+[
+
+	
+ 		{	"name":"Flipkart",
+ 		    "text": "Title Sponsors",
+			"position":0,
+			"imageurl":"https://static.interviewstreet.com/challenges/IIT/images/flipkart-logo.png",
+			"url" : "https://www.flipkart.com"
+
+		},
+
+		{	"name":"Omegle",
+ 		    "text": "Assosiate",
+			"position":11,
+			"imageurl":"https://www.omegle.com/static/translogo.png",
+			"url" : "https://www.omegle.com"
+		},
+
+
+		{		"name":"Google",
+ 		    "text": "Assosiate",
+			"position":12,
+			"imageurl":"https://www.google.co.in/logos/doodles/2014/world-cup-2014-39-5420023795417088.2-hp.gif",
+			"url" : "https://www.google.co.in"
+		},
+
+		{		"name":"Snapdeal",
+ 		    "text": "yo",
+			"position":13,
+			"imageurl":"http://i2.sdlcdn.com/img/snapdeal/sprite/snapdeal_logo.png?v=7",
+			"url" : "https://www.Snapdeal.com/"
+		},
+
+
+		{		"name":"Ubuntu",
+ 		    "text": "u",
+			"position":14	,
+			"imageurl":"http://assets.ubuntu.com/sites/ubuntu/latest/u/img/logos/logo-ibm-50.png",
+			"url" : "http://www.ubuntu.com/"
+		}
+
+		
+	
+]
